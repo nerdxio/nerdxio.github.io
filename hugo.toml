@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hassan Refaat'
 theme = 'hugo-theme-stack'
 
 # Menu configuration
@@ -52,6 +52,8 @@ theme = 'hugo-theme-stack'
         page = [
             {type = "toc"}
         ]
+
+    customCSS = ["css/custom.css"]
 
 [markup]
     [markup.tableOfContents]
