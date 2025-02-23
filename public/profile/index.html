@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='http://localhost:1313/profile/'>
 
-<link rel="stylesheet" href="/scss/style.min.01c2d02c032f2c233b6a7a35fa76feae2d581d7bb732e28c51dd3714db80245b.css"><meta property='og:title' content="Profile">
+<link rel="stylesheet" href="/scss/style.min.20acaf2fafd7e8112919c747fafaabefade6462695a7d95bc4b909e6644d4854.css"><meta property='og:title' content="Profile">
 <meta property='og:description' content="About me">
 <meta property='og:url' content='http://localhost:1313/profile/'>
 <meta property='og:site_name' content='Hassan Refaat'>
@@ -92,25 +92,6 @@
         
         
         
-        <li  class='current' >
-            <a href='/profile/' >
-                
-                
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="7" r="4" />
-  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-</svg>
-
-
-
-                
-                <span>Profile</span>
-            </a>
-        </li>
-        
-        
         <li >
             <a href='/' >
                 
@@ -127,6 +108,25 @@
 
                 
                 <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li  class='current' >
+            <a href='/profile/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>Profile</span>
             </a>
         </li>
         
@@ -638,5 +638,11 @@
     }());
 </script>
 
+        <script>
+        function toggleLeftSidebar() {
+            const leftSidebar = document.querySelector('.left-sidebar');
+            leftSidebar.classList.toggle('hidden'); 
+        }
+        </script>
     </body>
 </html>
