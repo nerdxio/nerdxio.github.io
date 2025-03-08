@@ -6,44 +6,100 @@
         <description>Recent content in Categories on Hassan Refaat</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
-        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 15 Jan 2025 09:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Java</title>
+        <link>http://localhost:1313/categories/java/</link>
+        <pubDate>Wed, 15 Jan 2025 09:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/test/</guid>
+        <guid>http://localhost:1313/categories/java/</guid>
         <description></description>
         </item>
         <item>
-        <title>Syntax</title>
-        <link>http://localhost:1313/categories/syntax/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        <title>Programming</title>
+        <link>http://localhost:1313/categories/programming/</link>
+        <pubDate>Wed, 15 Jan 2025 09:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/syntax/</guid>
+        <guid>http://localhost:1313/categories/programming/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>http://localhost:1313/categories/themes/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        <title>Web</title>
+        <link>http://localhost:1313/categories/web/</link>
+        <pubDate>Wed, 15 Jan 2025 09:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/themes/</guid>
+        <guid>http://localhost:1313/categories/web/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Web Development</title>
+        <link>http://localhost:1313/categories/web-development/</link>
+        <pubDate>Sun, 10 Dec 2023 10:15:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/web-development/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Software Development</title>
+        <link>http://localhost:1313/categories/software-development/</link>
+        <pubDate>Sun, 05 Nov 2023 14:30:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/software-development/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Testing</title>
+        <link>http://localhost:1313/categories/testing/</link>
+        <pubDate>Sun, 05 Nov 2023 14:30:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/testing/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tutorials</title>
+        <link>http://localhost:1313/categories/tutorials/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/tutorials/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Software Architecture</title>
+        <link>http://localhost:1313/categories/software-architecture/</link>
+        <pubDate>Mon, 18 Sep 2023 11:30:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/software-architecture/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Architecture</title>
+        <link>http://localhost:1313/categories/architecture/</link>
+        <pubDate>Fri, 25 Aug 2023 13:45:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/architecture/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Microservices</title>
+        <link>http://localhost:1313/categories/microservices/</link>
+        <pubDate>Fri, 25 Aug 2023 13:45:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/microservices/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>System Design</title>
+        <link>http://localhost:1313/categories/system-design/</link>
+        <pubDate>Fri, 25 Aug 2023 13:45:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/system-design/</guid>
         <description></description>
         </item>
         <item>
         <title>Example Category</title>
         <link>http://localhost:1313/categories/example-category/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/example-category/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Stack</title>
-        <link>http://localhost:1313/categories/stack/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/stack/</guid>
         <description></description>
         </item>
         

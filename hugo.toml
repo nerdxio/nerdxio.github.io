@@ -11,6 +11,27 @@ theme = 'hugo-theme-stack'
         url = "https://github.com"
         [menu.social.params]
             icon = "brand-github"
+            
+    [[menu.social]]
+        identifier = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/YourTwitterHandle"
+        [menu.social.params]
+            icon = "brand-twitter"
+            
+    [[menu.social]]
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://linkedin.com/in/YourLinkedInProfile"
+        [menu.social.params]
+            icon = "linkedin"
+            
+    [[menu.social]]
+        identifier = "cv"
+        name = "Resume/CV"
+        url = "/resume.pdf"  # Update this path to where your CV is stored
+        [menu.social.params]
+            icon = "cv"
 
 # Site parameters
 [params]

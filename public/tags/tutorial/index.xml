@@ -12,7 +12,7 @@
         <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/post/adding-related-content-to-hugo/</guid>
-        <description>&lt;img src="http://localhost:1313/related-content-cover.jpg" alt="Featured image of post How to Add Related Content to Your Hugo Theme" /&gt;&lt;h2 id=&#34;why-related-content-matters&#34;&gt;Why Related Content Matters
+        <description>&lt;img src="http://localhost:1313/post/adding-related-content-to-hugo/cover.png" alt="Featured image of post How to Add Related Content to Your Hugo Theme" /&gt;&lt;h2 id=&#34;why-related-content-matters&#34;&gt;Why Related Content Matters
 &lt;/h2&gt;&lt;p&gt;Related content sections are a powerful way to keep visitors engaged with your website by suggesting relevant articles they might be interested in. They reduce bounce rates, increase page views, and improve the overall user experience by helping readers discover more of your content.&lt;/p&gt;
 &lt;h2 id=&#34;how-hugo-handles-related-content&#34;&gt;How Hugo Handles Related Content
 &lt;/h2&gt;&lt;p&gt;Hugo has a built-in system for identifying and displaying related content based on various factors like tags, categories, and publication dates. Unlike some other platforms that might use complex algorithms or third-party services, Hugo handles this functionality natively.&lt;/p&gt;
