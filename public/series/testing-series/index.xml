@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Testing Series on Hassan Refaat</title>
+        <link>http://localhost:1313/series/testing-series/</link>
+        <description>Recent content in Testing Series on Hassan Refaat</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/testing-series/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Testing Part 3: Best Practices</title>
+        <link>http://localhost:1313/post/testing-part-3/</link>
+        <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/testing-part-3/</guid>
+        <description>&lt;p&gt;This is the third part of the testing series&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Testing Part 2: Advanced Techniques</title>
+        <link>http://localhost:1313/post/testing-part-2/</link>
+        <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/testing-part-2/</guid>
+        <description>&lt;p&gt;This is the second part of the testing series&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Testing Part 1: Getting Started</title>
+        <link>http://localhost:1313/post/testing-part-1/</link>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/testing-part-1/</guid>
+        <description>&lt;p&gt;This is the first part of the testing series&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

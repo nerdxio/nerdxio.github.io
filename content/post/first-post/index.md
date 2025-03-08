@@ -4,8 +4,7 @@ description:
 slug: noting
 image: im.webp
 date: 2025-01-01
-categories:
-    - Test
+categories: ["tutorials", "web"]
 ---
 
 ## Introduction

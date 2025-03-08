@@ -1,0 +1,20 @@
+/* Custom styles for related content */
+.article-list--compact.related-content {
+    margin-top: 2rem;
+    border-top: 1px solid var(--card-separator-color);
+    padding-top: 1.5rem;
+}
+
+.article-list--compact.related-content .article-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.related-content header {
+    margin-bottom: 1rem;
+}
+
+.related-content header h2 {
+    font-size: 1.4rem;
+    color: var(--accent-color);
+}

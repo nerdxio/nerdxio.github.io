@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nerdxio.github.io/'
 languageCode = 'en-us'
 title = 'Hassan Refaat'
 theme = 'hugo-theme-stack'
@@ -54,6 +54,24 @@ theme = 'hugo-theme-stack'
         ]
 
     customCSS = ["css/custom.css"]
+
+# Related content configuration
+[related]
+    includeNewer = true
+    threshold = 60
+    toLower = false
+    
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+    
+    [[related.indices]]
+        name = "categories"
+        weight = 80
+    
+    [[related.indices]]
+        name = "date"
+        weight = 10
 
 [markup]
     [markup.tableOfContents]
