@@ -26,8 +26,7 @@
 &lt;p&gt;Let&amp;rsquo;s explore each principle with practical Java examples.&lt;/p&gt;
 &lt;h2 id=&#34;single-responsibility-principle-srp&#34;&gt;Single Responsibility Principle (SRP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;A class should have only one reason to change.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;A class should have only one reason to change.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle states that a class should be responsible for a single task or functionality.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -199,8 +198,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;openclosed-principle-ocp&#34;&gt;Open/Closed Principle (OCP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Software entities should be open for extension but closed for modification.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Software entities should be open for extension but closed for modification.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle emphasizes that you should be able to extend a class&amp;rsquo;s behavior without modifying it.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-1&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -372,8 +370,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;liskov-substitution-principle-lsp&#34;&gt;Liskov Substitution Principle (LSP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle is about ensuring that a derived class can stand in for its base class without causing issues.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-2&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -567,8 +564,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;interface-segregation-principle-isp&#34;&gt;Interface Segregation Principle (ISP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Clients should not be forced to depend on methods they do not use.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Clients should not be forced to depend on methods they do not use.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle advises creating specific interfaces rather than one general-purpose interface.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-3&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -705,8 +701,7 @@
 &lt;/div&gt;&lt;h2 id=&#34;dependency-inversion-principle-dip&#34;&gt;Dependency Inversion Principle (DIP)
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;High-level modules should not depend on low-level modules. Both should depend on abstractions.
-Abstractions should not depend on details. Details should depend on abstractions.&lt;/p&gt;
-&lt;/blockquote&gt;
+Abstractions should not depend on details. Details should depend on abstractions.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle is about decoupling modules through abstractions.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-4&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

@@ -14,10 +14,10 @@
     <loc>http://localhost:1313/post/java-streams-introduction/</loc>
     <lastmod>2025-01-15T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>http://localhost:1313/categories/java/</loc>
     <lastmod>2025-01-15T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/java/</loc>
+    <loc>http://localhost:1313/tags/java/</loc>
     <lastmod>2025-01-15T09:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
@@ -32,10 +32,10 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-15T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web/</loc>
+    <loc>http://localhost:1313/categories/web/</loc>
     <lastmod>2025-01-15T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/web/</loc>
+    <loc>http://localhost:1313/tags/web/</loc>
     <lastmod>2025-01-15T09:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/spring-boot-rest-api/</loc>
@@ -134,10 +134,10 @@
     <loc>http://localhost:1313/post/microservices-patterns/</loc>
     <lastmod>2023-08-25T13:45:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/microservices/</loc>
+    <loc>http://localhost:1313/categories/microservices/</loc>
     <lastmod>2023-08-25T13:45:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/microservices/</loc>
+    <loc>http://localhost:1313/tags/microservices/</loc>
     <lastmod>2023-08-25T13:45:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resilience/</loc>
@@ -145,9 +145,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/system-design/</loc>
     <lastmod>2023-08-25T13:45:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/shortcodes/</loc>
-    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>

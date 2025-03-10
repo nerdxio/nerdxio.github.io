@@ -762,8 +762,7 @@
 &lt;p&gt;Let&amp;rsquo;s explore each principle with practical Java examples.&lt;/p&gt;
 &lt;h2 id=&#34;single-responsibility-principle-srp&#34;&gt;Single Responsibility Principle (SRP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;A class should have only one reason to change.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;A class should have only one reason to change.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle states that a class should be responsible for a single task or functionality.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -935,8 +934,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;openclosed-principle-ocp&#34;&gt;Open/Closed Principle (OCP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Software entities should be open for extension but closed for modification.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Software entities should be open for extension but closed for modification.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle emphasizes that you should be able to extend a class&amp;rsquo;s behavior without modifying it.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-1&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1108,8 +1106,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;liskov-substitution-principle-lsp&#34;&gt;Liskov Substitution Principle (LSP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle is about ensuring that a derived class can stand in for its base class without causing issues.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-2&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1303,8 +1300,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;interface-segregation-principle-isp&#34;&gt;Interface Segregation Principle (ISP)
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Clients should not be forced to depend on methods they do not use.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Clients should not be forced to depend on methods they do not use.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle advises creating specific interfaces rather than one general-purpose interface.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-3&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1441,8 +1437,7 @@
 &lt;/div&gt;&lt;h2 id=&#34;dependency-inversion-principle-dip&#34;&gt;Dependency Inversion Principle (DIP)
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;High-level modules should not depend on low-level modules. Both should depend on abstractions.
-Abstractions should not depend on details. Details should depend on abstractions.&lt;/p&gt;
-&lt;/blockquote&gt;
+Abstractions should not depend on details. Details should depend on abstractions.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This principle is about decoupling modules through abstractions.&lt;/p&gt;
 &lt;h3 id=&#34;bad-example-4&#34;&gt;Bad Example:
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1596,71 +1591,69 @@ Abstractions should not depend on details. Details should depend on abstractions
 &lt;h3 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;!-- raw HTML omitted --&gt;
-— &lt;!-- raw HTML omitted --&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+— &lt;!-- raw HTML omitted --&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;tables&#34;&gt;Tables
 &lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Age&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Bob&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Alice&lt;/td&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Age&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bob&lt;/td&gt;
+          &lt;td&gt;27&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Alice&lt;/td&gt;
+          &lt;td&gt;23&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
 &lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Italics&lt;/th&gt;
-&lt;th&gt;Bold&lt;/th&gt;
-&lt;th&gt;Code&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Italics&lt;/th&gt;
+          &lt;th&gt;Bold&lt;/th&gt;
+          &lt;th&gt;Code&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;A&lt;/th&gt;
-&lt;th&gt;B&lt;/th&gt;
-&lt;th&gt;C&lt;/th&gt;
-&lt;th&gt;D&lt;/th&gt;
-&lt;th&gt;E&lt;/th&gt;
-&lt;th&gt;F&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-&lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-&lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-&lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-&lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-&lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;A&lt;/th&gt;
+          &lt;th&gt;B&lt;/th&gt;
+          &lt;th&gt;C&lt;/th&gt;
+          &lt;th&gt;D&lt;/th&gt;
+          &lt;th&gt;E&lt;/th&gt;
+          &lt;th&gt;F&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
+          &lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
+          &lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
+          &lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
+          &lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
+          &lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
 &lt;/h2&gt;&lt;h3 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
@@ -2508,89 +2501,6 @@ Abstractions should not depend on details. Details should depend on abstractions
 </description>
         </item>
         <item>
-        <title>Shortcodes</title>
-        <link>http://localhost:1313/post/shortcodes/</link>
-        <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/post/shortcodes/</guid>
-        <description>&lt;img src="http://localhost:1313/post/shortcodes/cover.jpg" alt="Featured image of post Shortcodes" /&gt;&lt;p&gt;For more details, check out the &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/writing/shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;documentation&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;bilibili-video&#34;&gt;Bilibili video
-&lt;/h2&gt;
-
-
-
-
-
-    
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1d4411N7zD&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;tencent-video&#34;&gt;Tencent video
-&lt;/h2&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://v.qq.com/txp/iframe/player.html?vid=g0014r3khdw&amp;auto=0&#34; 
-            scrolling=&#34;no&#34; 
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34; 
-            allowfullscreen=&#34;true&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;youtube-video&#34;&gt;YouTube video
-&lt;/h2&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/0qwALOOvUik&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;generic-video-file&#34;&gt;Generic video file
-&lt;/h2&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;video
-    controls
-    src=&#34;https://www.w3schools.com/tags/movie.mp4&#34;
-    
-    
-    &gt;
-        &lt;p&gt;
-            Your browser doesn&#39;t support HTML5 video. Here is a
-            &lt;a href=&#34;https://www.w3schools.com/tags/movie.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
-        &lt;/p&gt;
-    &lt;/video&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;gist&#34;&gt;Gist
-&lt;/h2&gt;&lt;script src=&#34;https://gist.github.com/CaiJimmy/e2751a943de10b2a5b3a8a6c2120cb86.js&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;gitlab&#34;&gt;GitLab
-&lt;/h2&gt;&lt;script
-    type=&#34;application/javascript&#34;
-    src=&#34;https://gitlab.com/-/snippets/2589724.js&#34;
-&gt;&lt;/script&gt;
-&lt;h2 id=&#34;quote&#34;&gt;Quote
-&lt;/h2&gt;&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;A famous person, &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Book&#34;&gt;&lt;cite&gt;The book they wrote&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@codioful&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Codioful&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/photos/WDSN62Qdxuk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
         <title>Math Typesetting</title>
         <link>http://localhost:1313/post/math-typesetting/</link>
         <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
@@ -2656,21 +2566,11 @@ $$&lt;/p&gt;
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/profile/</guid>
-        <description>&lt;h1 id=&#34;-john-doe&#34;&gt;👨‍💻 John Doe
-&lt;/h1&gt;&lt;h2 id=&#34;-senior-backend-software-engineer&#34;&gt;🚀 Senior Backend Software Engineer
-&lt;/h2&gt;&lt;p&gt;💡 Passionate backend developer with 2 years of experience building scalable applications and microservices.&lt;/p&gt;
+        <description>&lt;h1 id=&#34;-hassan-refaat&#34;&gt;👨‍💻 Hassan Refaat
+&lt;/h1&gt;&lt;h2 id=&#34;-backend-software-engineer&#34;&gt;🚀 Backend Software Engineer
+&lt;/h2&gt;&lt;p&gt;💡 Passionate backend developer based in Cairo, Egypt with expertise in building scalable applications and microservices architecture. &lt;/p&gt;
 &lt;h3 id=&#34;-technical-skills&#34;&gt;🛠️ Technical Skills
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;📚 Languages:&lt;/strong&gt;&lt;br&gt;
-&lt;img src=&#34;https://img.shields.io/badge/Python-3776AB?style=flat&amp;amp;logo=python&amp;amp;logoColor=white&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Python&#34;
-	
-	
-&gt;
 &lt;img src=&#34;https://img.shields.io/badge/Java-ED8B00?style=flat&amp;amp;logo=openjdk&amp;amp;logoColor=white&#34;
 	
 	
@@ -2681,44 +2581,124 @@ $$&lt;/p&gt;
 	
 	
 &gt;
-&lt;img src=&#34;https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;amp;logo=javascript&amp;amp;logoColor=black&#34;
+&lt;img src=&#34;https://img.shields.io/badge/Golang-00ADD8?style=flat&amp;amp;logo=go&amp;amp;logoColor=white&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;JavaScript&#34;
+		alt=&#34;Golang&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Kotlin-7F52FF?style=flat&amp;amp;logo=kotlin&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Kotlin&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/SQL-4479A1?style=flat&amp;amp;logo=mysql&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;SQL&#34;
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🔧 Frameworks:&lt;/strong&gt;&lt;br&gt;
-&lt;img src=&#34;https://img.shields.io/badge/Django-092E20?style=flat&amp;amp;logo=django&amp;amp;logoColor=white&#34;
+&lt;p&gt;&lt;strong&gt;🔧 Frameworks &amp;amp; Technologies:&lt;/strong&gt;&lt;br&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&amp;amp;logo=spring-boot&amp;amp;logoColor=white&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Django&#34;
+		alt=&#34;Spring Boot&#34;
 	
 	
 &gt;
-&lt;img src=&#34;https://img.shields.io/badge/Spring-6DB33F?style=flat&amp;amp;logo=spring&amp;amp;logoColor=white&#34;
+&lt;img src=&#34;https://img.shields.io/badge/Spring_Core-6DB33F?style=flat&amp;amp;logo=spring&amp;amp;logoColor=white&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Spring&#34;
+		alt=&#34;Spring Core&#34;
 	
 	
 &gt;
-&lt;img src=&#34;https://img.shields.io/badge/Node.js-43853D?style=flat&amp;amp;logo=node.js&amp;amp;logoColor=white&#34;
+&lt;img src=&#34;https://img.shields.io/badge/Spring_Data-6DB33F?style=flat&amp;amp;logo=spring&amp;amp;logoColor=white&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Node.js&#34;
+		alt=&#34;Spring Data&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Hibernate-59666C?style=flat&amp;amp;logo=hibernate&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hibernate&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/GRPC-4285F4?style=flat&amp;amp;logo=google&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GRPC&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/REST_APIs-FF5733?style=flat&amp;amp;logo=fastapi&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;REST API&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&amp;amp;logo=rabbitmq&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;RabbitMQ&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Apache_Pulsar-188FFF?style=flat&amp;amp;logo=apache&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Apache Pulsar&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Datadog-632CA6?style=flat&amp;amp;logo=datadog&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Datadog&#34;
 	
 	
 &gt;&lt;/p&gt;
@@ -2753,14 +2733,14 @@ $$&lt;/p&gt;
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚙️ Tools &amp;amp; Platforms:&lt;/strong&gt;&lt;br&gt;
-&lt;img src=&#34;https://img.shields.io/badge/Docker-2496ED?style=flat&amp;amp;logo=docker&amp;amp;logoColor=white&#34;
+&lt;p&gt;&lt;strong&gt;⚙️ DevOps &amp;amp; Cloud:&lt;/strong&gt;&lt;br&gt;
+&lt;img src=&#34;https://img.shields.io/badge/AWS-232F3E?style=flat&amp;amp;logo=amazon-aws&amp;amp;logoColor=white&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Docker&#34;
+		alt=&#34;AWS&#34;
 	
 	
 &gt;
@@ -2774,68 +2754,237 @@ $$&lt;/p&gt;
 	
 	
 &gt;
-&lt;img src=&#34;https://img.shields.io/badge/AWS-232F3E?style=flat&amp;amp;logo=amazon-aws&amp;amp;logoColor=white&#34;
+&lt;img src=&#34;https://img.shields.io/badge/Docker-2496ED?style=flat&amp;amp;logo=docker&amp;amp;logoColor=white&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;AWS&#34;
+		alt=&#34;Docker&#34;
 	
 	
 &gt;
-&lt;img src=&#34;https://img.shields.io/badge/Git-F05032?style=flat&amp;amp;logo=git&amp;amp;logoColor=white&#34;
+&lt;img src=&#34;https://img.shields.io/badge/Jenkins-D24939?style=flat&amp;amp;logo=jenkins&amp;amp;logoColor=white&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Git&#34;
+		alt=&#34;Jenkins&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&amp;amp;logo=github-actions&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GitHub Actions&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Terraform-7B42BC?style=flat&amp;amp;logo=terraform&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Terraform&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Ansible-EE0000?style=flat&amp;amp;logo=ansible&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Ansible&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Linux-FCC624?style=flat&amp;amp;logo=linux&amp;amp;logoColor=black&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🧩 Concepts:&lt;/strong&gt;&lt;br&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Systems_Design-0078D7?style=flat&amp;amp;logo=microsoft&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Systems Design&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/OOP-3C873A?style=flat&amp;amp;logo=java&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;OOP&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/SOLID-4B275F?style=flat&amp;amp;logo=solid&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;SOLID&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Microservices-FF4F8B?style=flat&amp;amp;logo=instana&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Microservices&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Clean_Code-239120?style=flat&amp;amp;logo=clean-code&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Clean Code&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Design_Patterns-E34F26?style=flat&amp;amp;logo=patterns&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Design Patterns&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Domain--Driven_Design-FF6A00?style=flat&amp;amp;logo=ddd&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;DDD&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Event_Sourcing-7952B3?style=flat&amp;amp;logo=apache-kafka&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Event Sourcing&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/CQRS-512BD4?style=flat&amp;amp;logo=cqrs&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;CQRS&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/TDD-009688?style=flat&amp;amp;logo=testing-library&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;TDD&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Hexagonal_Architecture-6F286D?style=flat&amp;amp;logo=hexo&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hexagonal Architecture&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.shields.io/badge/Reactive_Programming-B7178C?style=flat&amp;amp;logo=reactivex&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Reactive Programming&#34;
 	
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;-professional-experience&#34;&gt;👨‍💼 Professional Experience
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;🏢 Backend Software Engineer&lt;/strong&gt; | TechCorp Solutions&lt;br&gt;
-&lt;em&gt;📅 Jan 2023 - Present&lt;/em&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;🏢 Backend Engineer&lt;/strong&gt; | Taager&lt;br&gt;
+&lt;em&gt;📅 Aug 2024 - Present | Maadi, Egypt&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;🔹 Architected and implemented RESTful APIs serving 100K+ daily users, improving response times by 40%&lt;/li&gt;
-&lt;li&gt;🔹 Led migration of monolithic architecture to microservices, reducing deployment time by 60%&lt;/li&gt;
-&lt;li&gt;🔹 Implemented caching strategies using Redis, resulting in 30% reduction in database load&lt;/li&gt;
-&lt;li&gt;🔹 Mentored 2 junior developers and conducted code reviews for team of 5 engineers&lt;/li&gt;
+&lt;li&gt;🔹 Designed and implemented new features that increased the net delivery rate by 2%, optimizing delivery processes and improving customer satisfaction&lt;/li&gt;
+&lt;li&gt;🔹 Led a team of 2 developers to oversee a feature from design to release, ensuring smooth execution and timely delivery&lt;/li&gt;
+&lt;li&gt;🔹 Integrated new functionality with WooCommerce, resulting in a 4% increase in order volume and boosting sales&lt;/li&gt;
+&lt;li&gt;🔹 Collaborated with stakeholders to gather requirements, ensuring alignment with objectives and delivering impactful features&lt;/li&gt;
+&lt;li&gt;🔹 Investigated and identified root causes of technical issues, delivering long-term solutions and reducing recurrence&lt;/li&gt;
+&lt;li&gt;🔹 Consistently wrote clean and robust code, adhering to best practices to ensure maintainability and scalability&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🏢 Junior Backend Developer&lt;/strong&gt; | Digital Innovations Inc.&lt;br&gt;
-&lt;em&gt;📅 Jan 2022 - Dec 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🏢 Backend Engineer&lt;/strong&gt; | Scicave&lt;br&gt;
+&lt;em&gt;📅 Nov 2023 - Aug 2024 | Remote, Egypt&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;🔹 Developed and maintained backend services using Python/Django for e-commerce platform&lt;/li&gt;
-&lt;li&gt;🔹 Implemented payment gateway integration handling $1M+ in monthly transactions&lt;/li&gt;
-&lt;li&gt;🔹 Optimized database queries resulting in 25% improvement in application performance&lt;/li&gt;
-&lt;li&gt;🔹 Collaborated with frontend team to design and implement API endpoints&lt;/li&gt;
+&lt;li&gt;🔹 Designed and developed efficient and scalable backend services, enhancing system performance, interaction, and scalability&lt;/li&gt;
+&lt;li&gt;🔹 Achieved 80% test coverage, implementing integration and unit tests to reduce bugs and ensure software reliability&lt;/li&gt;
+&lt;li&gt;🔹 Refactored and optimized codebase, decreasing its size and complexity, which improved maintainability and performance&lt;/li&gt;
+&lt;li&gt;🔹 Deployed backend and frontend applications on AWS, building CI/CD pipelines for efficient development and deployments&lt;/li&gt;
+&lt;li&gt;🔹 Maintained comprehensive documentation, facilitating knowledge transfer and onboarding of new team members&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🏢 Software Engineer Intern&lt;/strong&gt; | Banque Misr&lt;br&gt;
+&lt;em&gt;📅 Aug 2022 - Sep 2022 | New Cairo, Egypt&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Developed an e-commerce Android app, contributing to its successful completion and graduation from the internship&lt;/li&gt;
+&lt;li&gt;🔹 Executed assigned tasks under supervision, ensuring timely delivery and adherence to project requirements&lt;/li&gt;
+&lt;li&gt;🔹 Participated in technical discussions to explore and implement solutions within the company&amp;rsquo;s app infrastructure&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;-projects&#34;&gt;💻 Projects
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;📱 Scalable Chat Application&lt;/strong&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;🛒 YADAWY.COM&lt;/strong&gt; | &lt;em&gt;May 2024 - Present&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;🔸 Built real-time chat system using Node.js and WebSocket&lt;/li&gt;
-&lt;li&gt;🔸 Implemented message queuing with RabbitMQ&lt;/li&gt;
-&lt;li&gt;🔸 Deployed on AWS using Docker containers&lt;/li&gt;
-&lt;li&gt;🔸 Handles 10K+ concurrent users&lt;/li&gt;
+&lt;li&gt;🔸 Founded and led development of Yadwa.com, a comprehensive e-commerce platform for handmade goods&lt;/li&gt;
+&lt;li&gt;🔸 Conducted market research to identify niches, refine offerings, and enhance brand visibility&lt;/li&gt;
+&lt;li&gt;🔸 Developed a platform for handmade products, including a website for customers and sellers, as well as an admin dashboard&lt;/li&gt;
+&lt;li&gt;🔸 Built backend using Spring Boot, PostgreSQL, REST APIs, OAuth2, and MongoDB&lt;/li&gt;
+&lt;li&gt;🔸 Implemented DevOps on AWS with EC2, S3, RDS; utilized GitLab CI/CD and Docker for automation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;📦 Inventory Management System&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🌐 TEKVIEW&lt;/strong&gt; | &lt;em&gt;Apr 2024 - July 2024&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;🔸 Developed backend for inventory tracking system using Spring Boot&lt;/li&gt;
-&lt;li&gt;🔸 Implemented role-based access control&lt;/li&gt;
-&lt;li&gt;🔸 Integrated with multiple third-party logistics APIs&lt;/li&gt;
-&lt;li&gt;🔸 Reduced manual inventory reconciliation time by 70%&lt;/li&gt;
+&lt;li&gt;🔸 Developed TekView, a web-building platform with subscription-based services and monthly payment options&lt;/li&gt;
+&lt;li&gt;🔸 Implemented user-friendly website creation tools, domain purchasing, and DNS management features&lt;/li&gt;
+&lt;li&gt;🔸 Integrated payment gateway and GoDaddy API, providing a seamless experience for transactions and domain services&lt;/li&gt;
+&lt;li&gt;🔸 Created an advanced admin dashboard for efficient user and subscription management, enhancing platform oversight&lt;/li&gt;
+&lt;li&gt;🔸 Deployed backend and frontend applications to ensure smooth operation and accessibility, enhancing system reliability&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;-education&#34;&gt;🎓 Education
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Bachelor of Science in Computer Science&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;University of Technology | 2021&lt;/em&gt; 📚&lt;/p&gt;
-&lt;h3 id=&#34;-certifications&#34;&gt;🏆 Certifications
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;☁️ AWS Certified Developer - Associate&lt;/li&gt;
-&lt;li&gt;🐳 Docker Certified Associate&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Bachelor of Computer Science&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;The Egyptian E-Learning University (EELU) | 2020 - 2024&lt;/em&gt; 📚&lt;br&gt;
+Cumulative GPA: 3.2/4.0&lt;/p&gt;
 &lt;h3 id=&#34;-connect-with-me&#34;&gt;📫 Connect With Me
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://linkedin.com/in/johndoe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://linkedin.com/in/nerdxio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34;
 	
 	
@@ -2846,7 +2995,7 @@ $$&lt;/p&gt;
 	
 	
 &gt;&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://github.com/johndoe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/nerdxio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/badge/GitHub-100000?style=flat&amp;amp;logo=github&amp;amp;logoColor=white&#34;
 	
 	
@@ -2857,7 +3006,7 @@ $$&lt;/p&gt;
 	
 	
 &gt;&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;mailto:john.doe@email.com&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/Email-D14836?style=flat&amp;amp;logo=gmail&amp;amp;logoColor=white&#34;
+&lt;a class=&#34;link&#34; href=&#34;mailto:hassan.refaat.dev@gmail.com&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/Email-D14836?style=flat&amp;amp;logo=gmail&amp;amp;logoColor=white&#34;
 	
 	
 	
