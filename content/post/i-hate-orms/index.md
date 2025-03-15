@@ -3,7 +3,7 @@ title: "I Hate ORMs: Hibernate Edition"
 date: 2024-07-30
 image: "image.png"
 description: "Understanding the pitfalls of Hibernate's batch operations and how to optimize them"
-categories: ["Java", "Database", "Performance"]
+categories: ["Java", "Database", "Performance", "JPA"]
 tags: ["Java", "Hibernate", "JPA", "Performance", "Database"]
 ---
 
